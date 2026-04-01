@@ -132,6 +132,3 @@ Ayushi Shukla
 Anshuman Ravi
 National Institute of Technology Patna
 
-## License
-
-Add your preferred license (e.g., MIT)
