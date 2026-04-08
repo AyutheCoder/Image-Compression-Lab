@@ -8,8 +8,8 @@ import os
 # LOAD IMAGE
 # =========================
 image_path = "image.jpg"   # change image name
-img = cv2.imread(image_path)
-
+img = cv2.imread(image_path) # load the image named image_path and store it in variable img
+#If image is not found:
 if img is None:
     print("Error: Image not found")
     exit()
